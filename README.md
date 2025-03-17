@@ -7,7 +7,7 @@
 
 ##- 🔭 I’m currently working on ...대행과 납품 그리고 유통,물류관리사에 관심 있음 현재(정처기 필기,실기, 컴활, 물류,유통 관리사 준비즁)
 ##- 🌱 I’m currently learning ...JAVA,HTML5,Python,Bake, cutprofile
-##- 👯 I’m looking to collaborate on ...
+##- 👯 I’m looking to collaborate on ...국세청과 세금 정리에 대해서 협력할려고요
 ##- 🤔 I’m looking for help with ...language speak, read, utilize
 ##- 💬 Ask me about ...영어 Read, Write, listen 관심..(유)
 ##- 📫 How to reach me: ...
