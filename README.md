@@ -9,8 +9,8 @@
   
 <br/>
 
-- 블로그 운영: 필기시험 이후 개설 예정.
-- 주로 사용되는 기술: 수많은 기술 다 배울 수는 없고 끊임없이 배워야함(추후 기술예정)
+- 블로그 운영: 기사 필기시험 이후 개설 예정. 티스토리로 개설 예쩡
+- 주로 사용되는 기술: 여러 분야의 소프트웨어를 개발하기 위해서는 그 분야에 대해 공부해야 하고 알아야함(제2의 공부) 그래서 끊임없이 배워야하는 숙명이 있음. /물론 컴퓨터과학 사고 지식 소프트웨어 개발의 기본적인 지식도 부족함 난 그것이 빠르게 바뀌는 시대에서 삼(추후 기술예정)
 - 관심 분야: GAME Engine, 언리얼 엔진, 유니티, 그래픽 영상편집, Final Cut Pro, Motion, Adobe Photo Shop
 
 - ## ⚡️ Language ⚡️
@@ -23,7 +23,7 @@
 - DataBase: MySQL, Oracle
 - AI/ML: Python
 - DevOps: Github
-- Cloud: 배워야함 배우고 싶음 근데. 망할 놈의 하.. ㄱ.. ㄱ.. ㅛ.. 
+- Cloud: 배워야함 배우고 싶음 근데. 이론으로만 배움 실질적으로 쓰이는 기술은 직접 배워야함(인프런 ㄱ)
 - Mobile: iOS, Java(Android),Swift5
 - Video Edit:Final Cut Pro, [Photo shop,Premiere Pro(adobe)], Motion, Excel, 한글2014, Word, PowerPoint, Logic Pro
 
