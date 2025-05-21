@@ -6,8 +6,7 @@
   UNIV. : MYOGJI UNIV.<br>
   Major : Convergence Software Engineering<br>
   I'm studying to ba a life Developer. <br>
-  <br>
-
+  
 <br/>
 
 - 블로그 운영: 필기시험 이후 개설 예정.
@@ -35,4 +34,4 @@
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
