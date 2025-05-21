@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SkipperMIN&fontAlignY=40&fontSize=100&desc=(^^)&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SkipperMIN&fontAlignY=40&fontSize=100&desc=(*ㅅ*)&descAlignY=65&animation=twinkling)
 
 <br/>
 
@@ -19,14 +19,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skippermin&layout=compact)](https://github.com/skippermin)
 
 ## ⚙️ My Tech Stack ⚙️
--Frontend: HTML, CSS, TypeScript, javaScript
--Backend: SpringBoot, jPA
--DataBase: MySQL, Oracle
--AI/ML: Python
--DevOps: Github
--Cloud: 배워야함 배우고 싶음 근데. 망할 놈의 하.. ㄱ.. ㄱ.. ㅛ.. 
--Mobile: iOS, Java(Android),Swift5
--Video Edit:Final Cut Pro, [Photo shop,Premiere Pro(adobe)], Motion, Excel, 한글2014, Word, PowerPoint, Logic Pro
+- Frontend: HTML, CSS, TypeScript, javaScript
+- Backend: SpringBoot, jPA
+- DataBase: MySQL, Oracle
+- AI/ML: Python
+- DevOps: Github
+- Cloud: 배워야함 배우고 싶음 근데. 망할 놈의 하.. ㄱ.. ㄱ.. ㅛ.. 
+- Mobile: iOS, Java(Android),Swift5
+- Video Edit:Final Cut Pro, [Photo shop,Premiere Pro(adobe)], Motion, Excel, 한글2014, Word, PowerPoint, Logic Pro
 
 ## 📫 contact 📫
 - instagram: 프로필 참고.
@@ -34,4 +34,5 @@
 - Phone number: X
 
 <br/>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130
