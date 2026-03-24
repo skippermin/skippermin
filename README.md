@@ -27,11 +27,6 @@
 - Mobile: iOS, Java(Android),Swift5
 - Video Edit:Final Cut Pro, [Photo shop,Premiere Pro(adobe)], Motion, Excel, 한글2014, Word, PowerPoint, Logic Pro
 
-## 📫 contact 📫
-- instagram: 프로필 참고.
-- E-mail: 프로필 참고.
-- Phone number: X
-
 <br/>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
